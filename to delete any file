@@ -1,0 +1,5 @@
+f = open("file name","w")
+print(f.write("nee information antha dobbindhi ra puka"))
+f.close()
+f = open("file name","r")
+print(f.read())
